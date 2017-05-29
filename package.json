@@ -1,0 +1,24 @@
+{
+  "name": "url-shorterner",
+  "version": "1.0.0",
+  "description": "freecodecamp URL shortener microservice",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ApplefaceLisa/fcc-urlShortener-ms.git"
+  },
+  "keywords": [
+    "fcc",
+    "url",
+    "shortener"
+  ],
+  "author": "Lisa Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApplefaceLisa/fcc-urlShortener-ms/issues"
+  },
+  "homepage": "https://github.com/ApplefaceLisa/fcc-urlShortener-ms#readme"
+}
